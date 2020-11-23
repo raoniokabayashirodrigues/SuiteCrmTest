@@ -71,7 +71,6 @@ public class deletarTaskTest {
 		deletarTask.acessarTasks();
 		deletarTask.localizarTask(Subject);
 		deletarTask.deleteTask();
-		//deletarTask.localizarTask();
 		deletarTask.capturarMensagemNoResults();
 		
 		String screenshotArquivo = "C:\\Users\\Administrador\\IdeaProjects\\EverisTest\\src\\main\\java\\screenshots" +
