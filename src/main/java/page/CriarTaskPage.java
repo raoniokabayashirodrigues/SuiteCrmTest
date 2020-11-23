@@ -15,7 +15,6 @@ public class CriarTaskPage extends NavegarPage{
 	
 	public void acessarCreateTask() {
 		
-		
 		WebElement menuCreate = driver.findElement(By.xpath("//*[@class=\"desktop-bar\"]/ul/li/a"));
 		menuCreate.click();
 		
